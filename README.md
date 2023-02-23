@@ -1,9 +1,16 @@
 #### IMTIAZ
 
+<details><summary>Bugs</summary>
+<p>
+
+
 #### Bugs the problem
 - [ ] Bugs fix
 - [ ] The problem comes
 - [x] 90% Device working
+
+</p>
+</details>
 
 #### Install
 
