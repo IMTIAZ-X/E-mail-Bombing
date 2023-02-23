@@ -3,7 +3,6 @@
 <details><summary>Bugs</summary>
 <p>
 
-
 #### Bugs the problem
 - [ ] Bugs fix
 - [ ] The problem comes
@@ -11,6 +10,10 @@
 
 </p>
 </details>
+
+<hr>
+<div align="center">After a few days the stomach is update & upgrade</div>
+<hr>
 
 #### Install
 
