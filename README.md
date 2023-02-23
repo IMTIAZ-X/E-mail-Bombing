@@ -31,7 +31,7 @@ python E-mail Bomber.py
 
 
 ## Developers
-  * <a href="https://github.com/IMTIAZ-X">IMTIAZ</a>
+   <a href="https://github.com/IMTIAZ-X">IMTIAZ</a>
 
 
 ##### GITHUB : https://github.com/IMTIAZ-X
