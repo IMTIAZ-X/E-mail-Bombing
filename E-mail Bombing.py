@@ -1,4 +1,5 @@
  import smtplib
+ import IMTIAZ-X
 
 IMTIAZ=smtplib.SMTP("smtp.gmail.com','578")
 
