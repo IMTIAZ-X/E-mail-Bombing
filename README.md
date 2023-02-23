@@ -1,12 +1,29 @@
 #### IMTIAZ
 
-<details><summary>Bugs</summary>
+<details><summary>G-mail Bombing Bugs</summary>
 <p>
 
 #### Bugs the problem
 - [ ] Bugs fix
-- [ ] The problem comes
+- [ ] Error fix
+- [ ] The problem comes fix
 - [x] 90% Device working
+- [x] Mail send error fix 80%
+- [x] Update coming soon
+
+</p>
+</details>
+
+<details><summary>Premiere Bugs</summary>
+<p>
+
+#### Bugs the problem Fix
+- [x] Bugs fix
+- [x] Error fix
+- [x] The problem comes fix
+- [x] 99% Device working fix
+- [x] 90% Send Mail Error fix
+- [x] Updated every few days coming
 
 </p>
 </details>
