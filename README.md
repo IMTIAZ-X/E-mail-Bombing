@@ -1,5 +1,12 @@
 #### IMTIAZ
 
+#### Alert the problem
+Bugs fix
+<br>
+The problem comes
+<br>
+90% Device working
+
 #### Install
 
 ````bash
