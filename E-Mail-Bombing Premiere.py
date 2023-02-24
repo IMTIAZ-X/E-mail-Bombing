@@ -19,4 +19,3 @@ for i in range(amount):
     print("Email sent to", receiver_email)
 
 IMTIAZ.quit()
-
