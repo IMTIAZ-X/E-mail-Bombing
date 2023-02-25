@@ -39,8 +39,8 @@ pkg update && upgrade -y
 pkg install git -y
 pkg install python -y
 pip install requests
-git clone https://github.com/IMTIAZ-X/SMS-Bomber.git
-cd IMTIAZ-X , cd E-mail Bomber
+git clone https://github.com/IMTIAZ-X/SMS-Bomber
+cd IMTIAZ-X
 python E-mail Bomber.py
 ````
 
